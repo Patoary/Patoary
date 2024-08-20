@@ -16,14 +16,10 @@ Skills: JAVA / JAVASCRIPT / REACT / NODE / EXPRESS / HTML / CSS / MONGODB / SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patoary)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Patoary&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Patoary)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Patoary)  
-
-![Profile views](https://gpvc.arturio.dev/Patoary)  
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patoary&show_icons=true&theme=radical)
 
