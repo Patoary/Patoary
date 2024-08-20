@@ -23,3 +23,7 @@ Skills: JAVA / JAVASCRIPT / REACT / NODE / EXPRESS / HTML / CSS / MONGODB / SQL
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Patoary)  
 
 ![Profile views](https://gpvc.arturio.dev/Patoary)  
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
