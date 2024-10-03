@@ -11,8 +11,6 @@ I am a JavaScript developer and have created many websites using JavaScript. I w
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,java,react,nodejs,expressjs,mongodb,mysql,firebase,git,github,gitlab,docker,npm,vite,vscode,eclipse,idea,postman)](https://skillicons.dev)
 
 
-- 🌱 I’m currently learning Node 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Patoary)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/people/Zahidul-Islam-Patoary/100007474845908/)  
 
