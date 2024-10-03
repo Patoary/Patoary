@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patoary&label=Profile%20views&color=0e75b6&style=flat" alt="patoary" /> </p>
 ### Hi there 👋, I'm Patoary
 #### Web Developer
 
@@ -19,12 +19,8 @@ I am a JavaScript developer and have created many websites using JavaScript. I w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patoary)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Patoary&show_icons=true)  
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patoary&show_icons=true&locale=en" alt="patoary" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patoary&" alt="patoary" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Patoary) 
-
-
-
- 
 
