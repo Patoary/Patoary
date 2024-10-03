@@ -1,14 +1,15 @@
-![Web Developer](https://cutewallpaper.org/23/web-development-wallpaper-hd/be-your-full-stack-web-developer-and-build-your-complete-website-by-pratim440-fiverr.png)
+
 ### Hi there 👋, I'm Patoary
 #### Web Developer
 
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as Node.
+私はJavaScript開発者です。JavaScriptを使用して多くのウェブサイトを作成してきました。貴社のJavaScript開発者として、お力になれることを願っております。
+
+I am a JavaScript developer and have created many websites using JavaScript. I would be happy to help you as your JavaScript developer.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,nodejs,expressjs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,java,react,nodejs,expressjs,mongodb,mysql,firebase,git,github,gitlab,docker,npm,vite,vscode,eclipse,idea,postman)](https://skillicons.dev)
 
-Skills: JAVA / JAVASCRIPT / REACT / NODE / EXPRESS / HTML / CSS / MONGODB / SQL
 
 - 🌱 I’m currently learning Node 
 
@@ -22,7 +23,10 @@ Skills: JAVA / JAVASCRIPT / REACT / NODE / EXPRESS / HTML / CSS / MONGODB / SQL
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Patoary&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Patoary)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Patoary)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Patoary) 
+
+
+
+ 
 
